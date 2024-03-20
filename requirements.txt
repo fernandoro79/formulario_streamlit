@@ -2,3 +2,4 @@ streamlit
 pydub
 SpeechRecognition
 wordcloud
+ffprobe
